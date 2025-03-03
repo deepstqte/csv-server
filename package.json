@@ -1,5 +1,5 @@
 {
-  "name": "csv-server",
+  "name": "@deepstqte/csv-server",
   "version": "1.0.0",
   "description": "A CLI tool to serve CSV files as a REST API",
   "main": "dist/cli.js",
