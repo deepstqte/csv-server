@@ -1,0 +1,30 @@
+date and time,error level,ERROR CODE,FILE SOURCE,LINE NUMBER,ERROR INFO,CUSTOM_MSG
+2023-03-01 08:12:45,INFO,INFO001,MachineController.js,124,System startup,Machine controller initialized successfully
+2023-03-01 10:45:23,ERROR,ERR003,SensorModule.js,203,Sensor failure,Temperature sensor not responding
+2023-03-01 12:18:09,CRITICAL,CRIT004,SafetySystem.js,56,Emergency stop triggered,User initiated emergency stop
+2023-03-01 14:37:52,DEBUG,DEBUG005,DataProcessor.js,342,Processing delay,Data processing took 1.2s longer than expected
+2023-03-01 15:42:31,INFO,INFO006,PalletManager.js,78,Operation complete,Pallet loading sequence completed
+2023-03-01 16:55:13,WARNING,WARN007,InventoryTracker.js,129,Low inventory,Slip sheets running low (15% remaining)
+2023-03-01 18:03:27,ERROR,ERR008,NetworkInterface.js,267,Connection lost,Lost connection to central server
+2023-03-02 07:14:38,INFO,INFO009,SystemMonitor.js,93,Daily check,All systems operating within normal parameters
+2023-03-02 09:22:51,CRITICAL,CRIT010,PowerManager.js,41,Power failure,Unexpected power interruption detected
+2023-03-01 08:12:45,INFO,INFO001,MachineController.js,124,System startup,Machine controller initialized successfully
+2023-03-01 09:32:17,WARNING,WARN002,MotorService.js,87,Motor speed abnormal,Motor #2 running at 85% of expected speed
+2023-03-01 10:45:23,ERROR,ERR003,SensorModule.js,203,Sensor failure,Temperature sensor not responding
+2023-03-01 12:18:09,CRITICAL,CRIT004,SafetySystem.js,56,Emergency stop triggered,User initiated emergency stop
+2023-03-01 14:37:52,DEBUG,DEBUG005,DataProcessor.js,342,Processing delay,Data processing took 1.2s longer than expected
+2023-03-01 15:42:31,INFO,INFO006,PalletManager.js,78,Operation complete,Pallet loading sequence completed
+2023-03-01 16:55:13,WARNING,WARN007,InventoryTracker.js,129,Low inventory,Slip sheets running low (15% remaining)
+2023-03-01 18:03:27,ERROR,ERR008,NetworkInterface.js,267,Connection lost,Lost connection to central server
+2023-03-02 07:14:38,INFO,INFO009,SystemMonitor.js,93,Daily check,All systems operating within normal parameters
+2023-03-02 09:22:51,CRITICAL,CRIT010,PowerManager.js,41,Power failure,Unexpected power interruption detected
+2023-03-01 08:12:45,INFO,INFO001,MachineController.js,124,System startup,Machine controller initialized successfully
+2023-03-01 09:32:17,WARNING,WARN002,MotorService.js,87,Motor speed abnormal,Motor #2 running at 85% of expected speed
+2023-03-01 10:45:23,ERROR,ERR003,SensorModule.js,203,Sensor failure,Temperature sensor not responding
+2023-03-01 12:18:09,CRITICAL,CRIT004,SafetySystem.js,56,Emergency stop triggered,User initiated emergency stop
+2023-03-01 14:37:52,DEBUG,DEBUG005,DataProcessor.js,342,Processing delay,Data processing took 1.2s longer than expected
+2023-03-01 15:42:31,INFO,INFO006,PalletManager.js,78,Operation complete,Pallet loading sequence completed
+2023-03-01 16:55:13,WARNING,WARN007,InventoryTracker.js,129,Low inventory,Slip sheets running low (15% remaining)
+2023-03-01 18:03:27,ERROR,ERR008,NetworkInterface.js,267,Connection lost,Lost connection to central server
+2023-03-02 07:14:38,INFO,INFO009,SystemMonitor.js,93,Daily check,All systems operating within normal parameters
+2023-03-02 09:22:51,CRITICAL,CRIT010,PowerManager.js,41,Power failure,Unexpected power interruption detected
